@@ -2,3 +2,4 @@ this is a test document
 123
 456
 new line
+New line from git bash
